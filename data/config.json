@@ -1,0 +1,22 @@
+{
+  "discord_bot_token": "Insert Token Here",
+  "web_port": 8080,
+  "web_host": "localhost",
+  "lati_archive": {
+    "check_tags": [
+      "latios",
+      "latias",
+      "water",
+      "fusion",
+      "city",
+      "altomare",
+      "shiny",
+      "souldew"
+    ]
+  },
+  "channels": {
+    "allowed_text_channels": [
+      726085043004637225
+    ]
+  }
+}
